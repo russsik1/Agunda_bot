@@ -55,15 +55,3 @@ class SQLighter:
 
     def close(self):
         self.connection.close()
-
-
-        # db = SQLighter('main.db')
-        # print(db.select(input()))
-        # db.close()
-
-
-        # буква @
-        # description
-        #     если есть описание добаить в продолжение перевода
-        #     если нету тоесть значение ноун ничего не вставлять
-        # верхний нижний регистр
