@@ -4,12 +4,9 @@ import time
 from datetime import datetime, date
 from telebot import types
 
-APPID = '199cf3cfc1003879cc0abcbfb4737d47'  # openweathermap token
-test_token = '215765215:AAGCYsjo2krQdniybCJ3h4svfTwCI74pYkY'
-allon_token = '220197275:AAE8ZpS8Tx7BQNvhjBxl8ssDiouAl6UrYXM'
-agunda_token = '295126760:AAGSkxK4Z3GEEYu3aIp9J1vqFHG23m5Sl8c'
-allon_botan_key = '0f90b0e1-9ec0-499b-bb5d-2ed7ad2cc726'
-agunda_botan_key = '5e417885-0256-408a-8ff1-4b4106131fb3'
+APPID = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'  # openweathermap token
+agunda_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+agunda_botan_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 u = b'\xE2\x98\x94'.decode('utf-8')
 s = b'\xE2\x9B\x85'.decode('utf-8')
